@@ -1,4 +1,4 @@
-# D-jokesApp
+# D-JokesApp
 
 ## This project is just a collection of methods & widgets and mini-ideas i might use in the future, represented in the form of a small app fetches jokes.
 
