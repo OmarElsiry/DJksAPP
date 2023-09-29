@@ -5,28 +5,16 @@
 This project is just a collection of methods & widgets i might use in the future.
 
 ### I made This 
- Markup : - ApiTraining
-          - Used Lottie
-               - added circular border to Lottie Gif
-          - Added Splash Page
-          - Drawer 
-              - ChangeThemeButton
-              - HyperLink TextButton
-          - Reload Page Button
-          - Used Switch Button
-          - Responsive UI is a inevitable
+ Markup : - [x]  ApiTraining
+          - [x]  Used Lottie
+               - [x]  added circular border to Lottie Gif
+          - [x]  Added Splash Page
+          - [x]  Drawer 
+              - [x] ChangeThemeButton
+              - [x]  HyperLink TextButton
+          -  [x] Reload Page Button
+          - [x]  Used Switch Button
+          - [x]  Responsive UI is a inevitable
           
 
 
-####g
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
--OR-
-
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
