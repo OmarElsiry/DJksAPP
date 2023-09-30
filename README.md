@@ -6,7 +6,7 @@
 
 
 ### I Made/Used This 
-+ [x]  ApiTraining
+- [x]  ApiTraining
 - [x]  Used Lottie
      - [x]  added circular border to Lottie Gif
 - [x]  Added Splash Page
