@@ -18,4 +18,6 @@
 - [x]  Responsive UI is a inevitable
           
 
-[![Green Arrow](https://github.com/31Carlton7/green_square_wizard)](#)
+<div style="display: inline-block; border: 1px solid black; padding: 10px;">
+  <span style="color: green;">&#10004;</span>
+</div>
