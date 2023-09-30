@@ -14,7 +14,8 @@
     - [x]  ChangeThemeButton
     - [x]  HyperLink TextButton
 -  [x]  Reload Page Button
-- [x]  Used Switch Button
+- [x]  Used Switch Button to change current widgets
+
  
           
 
